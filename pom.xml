@@ -39,5 +39,13 @@
             <version>1.6.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.bahir</groupId>
+            <artifactId>spark-streaming-twitter_2.11</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+
+
+
     </dependencies>
 </project>
